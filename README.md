@@ -12,25 +12,25 @@ Folder: `/frontend`
 
 ### Screenshot Tampilan Web
 1. **Halaman Utama**
-   ![Halaman Utama](screenshots/halaman-utama.PNG)
+   ![Halaman Utama](screenshots/halaman-utama.png)
 2. **Halaman Detail Informasi**
-   ![Halaman Detail](screenshots/halaman-detail.PNG)
+   ![Halaman Detail](screenshots/halaman-detail.png)
 3. **Halaman Login**
-   ![Halaman Login](screenshots/halaman-login.PNG)
+   ![Halaman Login](screenshots/halaman-login.png)
 4. **Halaman Registrasi**
-   ![Halaman Registrasi](screenshots/halaman-registrasi.PNG)
+   ![Halaman Registrasi](screenshots/halaman-registrasi.png)
 5. **Halaman Menu Utama (Dashboard)**
-   ![Halaman Menu Utama](screenshots/halaman-dashboard.PNG)
+   ![Halaman Menu Utama](screenshots/halaman-dashboard.png)
 6. **Halaman Get All Informasi**
-   ![Halaman Get All Informasi](screenshots/halaman-get-all-informasi.PNG)
+   ![Halaman Get All Informasi](screenshots/halaman-get-all-informasi.png)
 7. **Halaman Get Informasi By ID**
-   ![Halaman Get Informasi By ID](screenshots/halaman-get-informasiByID.PNG)
+   ![Halaman Get Informasi By ID](screenshots/halaman-get-informasiByID.png)
 8. **Halaman Post Create Informasi**
-   ![Halaman Post Create Informasi](screenshots/halaman-post-create-informasi.PNG)
+   ![Halaman Post Create Informasi](screenshots/halaman-post-create-informasi.png)
 9. **Halaman Put Update Informasi**
-   ![Halaman Put Update Informasi](screenshots/halaman-put-update-informasi.PNG)
+   ![Halaman Put Update Informasi](screenshots/halaman-put-update-informasi.png)
 10. **Halaman Delete Informasi**
-   ![Halaman Delete Informasi](screenshots/halaman-delete-informasi.PNG)
+   ![Halaman Delete Informasi](screenshots/halaman-delete-informasi.png)
 
 
 
