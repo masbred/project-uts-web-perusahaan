@@ -1,0 +1,10 @@
+@"
+# Konfigurasi Git Ignore
+node_modules/
+npm-debug.log*
+.env
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
